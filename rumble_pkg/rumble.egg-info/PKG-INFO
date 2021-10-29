@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: rumble
+Version: 0.0.0
+Summary: IPython wrapper to format cell using black.
+Home-page: https://github.com/csurfer/blackcellmagic
+Author: Vishwas B Sharma
+Author-email: sharma.vishwas88@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: automation formatter yapf autopep8 pyfmt gofmt rustfmt IPython black jupyter
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: OS Independent
