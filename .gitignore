@@ -1,2 +1,6 @@
 __pycache__/
 .DS_Store
+.ipynb_checkpoints/
+rumble_pkg/build/
+rumble_pkg/dist/
+rumble_pkg/rumbledb.egg-info/
